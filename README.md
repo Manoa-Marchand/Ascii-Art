@@ -30,7 +30,7 @@ You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can
  |_| |_|  \___| |_| |_|  \___/
  ```
 ```
- ~/ascii-art$ ./ascii-art "1Hello 2There"
+~/ascii-art$ ./ascii-art "1Hello 2There"
 ```
 ```
       _    _           _    _                       _______   _
