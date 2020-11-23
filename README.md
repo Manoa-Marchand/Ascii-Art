@@ -17,7 +17,8 @@ You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can
     
 ## *Examples*
 
-```~/ascii-art$ go build
+```
+~/ascii-art$ go build
 ~/ascii-art$ ./ascii-art "hello"
 ```
  ```
