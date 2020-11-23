@@ -2,9 +2,9 @@
 
 ## *Autor*
 
-Hugo JOYET
-Pierre-Louis BERTIN
-Manoa MARCHAND
+-Hugo JOYET
+-Pierre-Louis BERTIN
+-Manoa MARCHAND
 
 ## *Installing*
 
