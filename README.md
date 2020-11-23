@@ -20,8 +20,6 @@ You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can
 ```
 ~/ascii-art$ go build
 ~/ascii-art$ ./ascii-art "hello"
-```
- ```
   _              _   _
  | |            | | | |
  | |__     ___  | | | |   ___
@@ -31,8 +29,6 @@ You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can
  ```
 ```
 ~/ascii-art$ ./ascii-art "1Hello 2There"
-```
-```
       _    _           _    _                       _______   _
   _  | |  | |         | |  | |               ____  |__   __| | |
  / | | |__| |   ___   | |  | |    ___       |___ \    | |    | |__      ___    _ __     ___
@@ -42,7 +38,5 @@ You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can
 ```
 ```
 ~/ascii-art$ ./ascii-art "1Hello 2There" "Layout"
-```
-```
 ERREUR: Veuillez rentrer un argument
 ```
