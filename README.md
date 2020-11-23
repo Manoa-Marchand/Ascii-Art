@@ -1,6 +1,6 @@
 # Ascii-Art
 
-## *Autor*
+## *Authors*
 
 * Hugo JOYET
 * Pierre-Louis BERTIN
