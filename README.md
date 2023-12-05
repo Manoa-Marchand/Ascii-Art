@@ -13,7 +13,7 @@ If you want to get a copy of this repository  — the command you need is `g
 
 You clone a repository with `git clone <ssh link>` or `git clone <url>`. you can do so like this for the current repository :
 
-    $ git clone git@git.ytrack.learn.ynov.com:HJOYET/ascii-art.git
+    $ git clone https://github.com/Manoa-Marchand/Ascii-Art.git
     
 ## *Examples*
 
